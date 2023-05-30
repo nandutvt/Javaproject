@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1685464721,,"wq!"
+|2,0,1685467140,,"wq!"
 :q!
 |2,0,1684498163,,"q!"
 
@@ -27,28 +27,46 @@
 # Registers:
 
 # File marks:
-'0  1  20  ~/Javaproject/trybook.txt
-|4,48,1,20,1685464721,"~/Javaproject/trybook.txt"
-'1  42  0  /var/lib/jenkins/config.xml
-|4,49,42,0,1684498163,"/var/lib/jenkins/config.xml"
-'2  80  0  /etc/default/jenkins
-|4,50,80,0,1684498092,"/etc/default/jenkins"
-'3  63  12  /etc/default/jenkins
-|4,51,63,12,1684497678,"/etc/default/jenkins"
+'0  1  2  ~/Javaproject/t.txt
+|4,48,1,2,1685467140,"~/Javaproject/t.txt"
+'1  1  20  ~/Javaproject/trybook.txt
+|4,49,1,20,1685464721,"~/Javaproject/trybook.txt"
+'2  42  0  /var/lib/jenkins/config.xml
+|4,50,42,0,1684498163,"/var/lib/jenkins/config.xml"
+'3  80  0  /etc/default/jenkins
+|4,51,80,0,1684498092,"/etc/default/jenkins"
 '4  63  12  /etc/default/jenkins
 |4,52,63,12,1684497678,"/etc/default/jenkins"
-'5  42  0  /var/lib/jenkins/config.xml
-|4,53,42,0,1684497417,"/var/lib/jenkins/config.xml"
-'6  56  25  /etc/ssh/sshd_config
-|4,54,56,25,1678409972,"/etc/ssh/sshd_config"
+'5  63  12  /etc/default/jenkins
+|4,53,63,12,1684497678,"/etc/default/jenkins"
+'6  42  0  /var/lib/jenkins/config.xml
+|4,54,42,0,1684497417,"/var/lib/jenkins/config.xml"
+'7  56  25  /etc/ssh/sshd_config
+|4,55,56,25,1678409972,"/etc/ssh/sshd_config"
 
 # Jumplist (newest first):
+-'  1  2  ~/Javaproject/t.txt
+|4,39,1,2,1685467140,"~/Javaproject/t.txt"
+-'  1  20  ~/Javaproject/trybook.txt
+|4,39,1,20,1685464721,"~/Javaproject/trybook.txt"
 -'  1  20  ~/Javaproject/trybook.txt
 |4,39,1,20,1685464721,"~/Javaproject/trybook.txt"
 -'  42  0  /var/lib/jenkins/config.xml
 |4,39,42,0,1684498163,"/var/lib/jenkins/config.xml"
 -'  42  0  /var/lib/jenkins/config.xml
 |4,39,42,0,1684498163,"/var/lib/jenkins/config.xml"
+-'  42  0  /var/lib/jenkins/config.xml
+|4,39,42,0,1684498163,"/var/lib/jenkins/config.xml"
+-'  42  0  /var/lib/jenkins/config.xml
+|4,39,42,0,1684498163,"/var/lib/jenkins/config.xml"
+-'  80  0  /etc/default/jenkins
+|4,39,80,0,1684498092,"/etc/default/jenkins"
+-'  80  0  /etc/default/jenkins
+|4,39,80,0,1684498092,"/etc/default/jenkins"
+-'  80  0  /etc/default/jenkins
+|4,39,80,0,1684498092,"/etc/default/jenkins"
+-'  80  0  /etc/default/jenkins
+|4,39,80,0,1684498092,"/etc/default/jenkins"
 -'  80  0  /etc/default/jenkins
 |4,39,80,0,1684498092,"/etc/default/jenkins"
 -'  80  0  /etc/default/jenkins
@@ -65,6 +83,22 @@
 |4,39,63,12,1684497990,"/etc/default/jenkins"
 -'  63  12  /etc/default/jenkins
 |4,39,63,12,1684497990,"/etc/default/jenkins"
+-'  63  12  /etc/default/jenkins
+|4,39,63,12,1684497990,"/etc/default/jenkins"
+-'  63  12  /etc/default/jenkins
+|4,39,63,12,1684497990,"/etc/default/jenkins"
+-'  63  12  /etc/default/jenkins
+|4,39,63,12,1684497990,"/etc/default/jenkins"
+-'  63  12  /etc/default/jenkins
+|4,39,63,12,1684497990,"/etc/default/jenkins"
+-'  63  12  /etc/default/jenkins
+|4,39,63,12,1684497678,"/etc/default/jenkins"
+-'  63  12  /etc/default/jenkins
+|4,39,63,12,1684497678,"/etc/default/jenkins"
+-'  63  12  /etc/default/jenkins
+|4,39,63,12,1684497678,"/etc/default/jenkins"
+-'  63  12  /etc/default/jenkins
+|4,39,63,12,1684497678,"/etc/default/jenkins"
 -'  63  12  /etc/default/jenkins
 |4,39,63,12,1684497678,"/etc/default/jenkins"
 -'  63  12  /etc/default/jenkins
@@ -89,6 +123,38 @@
 |4,39,1,0,1684497628,"/etc/default/jenkins"
 -'  1  0  /etc/default/jenkins
 |4,39,1,0,1684497628,"/etc/default/jenkins"
+-'  1  0  /etc/default/jenkins
+|4,39,1,0,1684497628,"/etc/default/jenkins"
+-'  1  0  /etc/default/jenkins
+|4,39,1,0,1684497628,"/etc/default/jenkins"
+-'  1  0  /etc/default/jenkins
+|4,39,1,0,1684497628,"/etc/default/jenkins"
+-'  1  0  /etc/default/jenkins
+|4,39,1,0,1684497628,"/etc/default/jenkins"
+-'  1  0  /etc/default/jenkins
+|4,39,1,0,1684497628,"/etc/default/jenkins"
+-'  1  0  /etc/default/jenkins
+|4,39,1,0,1684497628,"/etc/default/jenkins"
+-'  1  0  /etc/default/jenkins
+|4,39,1,0,1684497628,"/etc/default/jenkins"
+-'  1  0  /etc/default/jenkins
+|4,39,1,0,1684497628,"/etc/default/jenkins"
+-'  42  0  /var/lib/jenkins/config.xml
+|4,39,42,0,1684497417,"/var/lib/jenkins/config.xml"
+-'  42  0  /var/lib/jenkins/config.xml
+|4,39,42,0,1684497417,"/var/lib/jenkins/config.xml"
+-'  42  0  /var/lib/jenkins/config.xml
+|4,39,42,0,1684497417,"/var/lib/jenkins/config.xml"
+-'  42  0  /var/lib/jenkins/config.xml
+|4,39,42,0,1684497417,"/var/lib/jenkins/config.xml"
+-'  42  0  /var/lib/jenkins/config.xml
+|4,39,42,0,1684497417,"/var/lib/jenkins/config.xml"
+-'  42  0  /var/lib/jenkins/config.xml
+|4,39,42,0,1684497417,"/var/lib/jenkins/config.xml"
+-'  42  0  /var/lib/jenkins/config.xml
+|4,39,42,0,1684497417,"/var/lib/jenkins/config.xml"
+-'  42  0  /var/lib/jenkins/config.xml
+|4,39,42,0,1684497417,"/var/lib/jenkins/config.xml"
 -'  42  0  /var/lib/jenkins/config.xml
 |4,39,42,0,1684497417,"/var/lib/jenkins/config.xml"
 -'  42  0  /var/lib/jenkins/config.xml
@@ -125,6 +191,26 @@
 |4,39,1,0,1684497396,"/var/lib/jenkins/config.xml"
 -'  1  0  /var/lib/jenkins/config.xml
 |4,39,1,0,1684497396,"/var/lib/jenkins/config.xml"
+-'  1  0  /var/lib/jenkins/config.xml
+|4,39,1,0,1684497396,"/var/lib/jenkins/config.xml"
+-'  1  0  /var/lib/jenkins/config.xml
+|4,39,1,0,1684497396,"/var/lib/jenkins/config.xml"
+-'  1  0  /var/lib/jenkins/config.xml
+|4,39,1,0,1684497396,"/var/lib/jenkins/config.xml"
+-'  1  0  /var/lib/jenkins/config.xml
+|4,39,1,0,1684497396,"/var/lib/jenkins/config.xml"
+-'  1  0  /var/lib/jenkins/config.xml
+|4,39,1,0,1684497396,"/var/lib/jenkins/config.xml"
+-'  1  0  /var/lib/jenkins/config.xml
+|4,39,1,0,1684497396,"/var/lib/jenkins/config.xml"
+-'  1  0  /var/lib/jenkins/config.xml
+|4,39,1,0,1684497396,"/var/lib/jenkins/config.xml"
+-'  1  0  /var/lib/jenkins/config.xml
+|4,39,1,0,1684497396,"/var/lib/jenkins/config.xml"
+-'  1  0  /var/lib/jenkins/config.xml
+|4,39,1,0,1684497396,"/var/lib/jenkins/config.xml"
+-'  1  0  /var/lib/jenkins/config.xml
+|4,39,1,0,1684497396,"/var/lib/jenkins/config.xml"
 -'  56  25  /etc/ssh/sshd_config
 |4,39,56,25,1678409972,"/etc/ssh/sshd_config"
 -'  56  25  /etc/ssh/sshd_config
@@ -159,92 +245,15 @@
 |4,39,56,25,1678409972,"/etc/ssh/sshd_config"
 -'  56  25  /etc/ssh/sshd_config
 |4,39,56,25,1678409972,"/etc/ssh/sshd_config"
--'  56  25  /etc/ssh/sshd_config
-|4,39,56,25,1678409972,"/etc/ssh/sshd_config"
--'  56  25  /etc/ssh/sshd_config
-|4,39,56,25,1678409972,"/etc/ssh/sshd_config"
--'  56  25  /etc/ssh/sshd_config
-|4,39,56,25,1678409972,"/etc/ssh/sshd_config"
--'  56  25  /etc/ssh/sshd_config
-|4,39,56,25,1678409972,"/etc/ssh/sshd_config"
--'  56  25  /etc/ssh/sshd_config
-|4,39,56,25,1678409972,"/etc/ssh/sshd_config"
--'  56  25  /etc/ssh/sshd_config
-|4,39,56,25,1678409972,"/etc/ssh/sshd_config"
--'  56  25  /etc/ssh/sshd_config
-|4,39,56,25,1678409972,"/etc/ssh/sshd_config"
--'  56  25  /etc/ssh/sshd_config
-|4,39,56,25,1678409972,"/etc/ssh/sshd_config"
--'  56  25  /etc/ssh/sshd_config
-|4,39,56,25,1678409972,"/etc/ssh/sshd_config"
--'  56  25  /etc/ssh/sshd_config
-|4,39,56,25,1678409972,"/etc/ssh/sshd_config"
--'  56  25  /etc/ssh/sshd_config
-|4,39,56,25,1678409972,"/etc/ssh/sshd_config"
--'  56  25  /etc/ssh/sshd_config
-|4,39,56,25,1678409972,"/etc/ssh/sshd_config"
--'  56  25  /etc/ssh/sshd_config
-|4,39,56,25,1678409972,"/etc/ssh/sshd_config"
--'  56  25  /etc/ssh/sshd_config
-|4,39,56,25,1678409972,"/etc/ssh/sshd_config"
--'  56  25  /etc/ssh/sshd_config
-|4,39,56,25,1678409972,"/etc/ssh/sshd_config"
--'  1  0  /etc/ssh/sshd_config
-|4,39,1,0,1678409942,"/etc/ssh/sshd_config"
--'  1  0  /etc/ssh/sshd_config
-|4,39,1,0,1678409942,"/etc/ssh/sshd_config"
--'  1  0  /etc/ssh/sshd_config
-|4,39,1,0,1678409942,"/etc/ssh/sshd_config"
--'  1  0  /etc/ssh/sshd_config
-|4,39,1,0,1678409942,"/etc/ssh/sshd_config"
--'  1  0  /etc/ssh/sshd_config
-|4,39,1,0,1678409942,"/etc/ssh/sshd_config"
--'  1  0  /etc/ssh/sshd_config
-|4,39,1,0,1678409942,"/etc/ssh/sshd_config"
--'  1  0  /etc/ssh/sshd_config
-|4,39,1,0,1678409942,"/etc/ssh/sshd_config"
--'  1  0  /etc/ssh/sshd_config
-|4,39,1,0,1678409942,"/etc/ssh/sshd_config"
--'  1  0  /etc/ssh/sshd_config
-|4,39,1,0,1678409942,"/etc/ssh/sshd_config"
--'  1  0  /etc/ssh/sshd_config
-|4,39,1,0,1678409942,"/etc/ssh/sshd_config"
--'  1  0  /etc/ssh/sshd_config
-|4,39,1,0,1678409942,"/etc/ssh/sshd_config"
--'  1  0  /etc/ssh/sshd_config
-|4,39,1,0,1678409942,"/etc/ssh/sshd_config"
--'  1  0  /etc/ssh/sshd_config
-|4,39,1,0,1678409942,"/etc/ssh/sshd_config"
--'  1  0  /etc/ssh/sshd_config
-|4,39,1,0,1678409942,"/etc/ssh/sshd_config"
--'  1  0  /etc/ssh/sshd_config
-|4,39,1,0,1678409942,"/etc/ssh/sshd_config"
--'  1  0  /etc/ssh/sshd_config
-|4,39,1,0,1678409942,"/etc/ssh/sshd_config"
--'  1  0  /etc/ssh/sshd_config
-|4,39,1,0,1678409942,"/etc/ssh/sshd_config"
--'  1  0  /etc/ssh/sshd_config
-|4,39,1,0,1678409942,"/etc/ssh/sshd_config"
--'  1  0  /etc/ssh/sshd_config
-|4,39,1,0,1678409942,"/etc/ssh/sshd_config"
--'  1  0  /etc/ssh/sshd_config
-|4,39,1,0,1678409942,"/etc/ssh/sshd_config"
--'  1  0  /etc/ssh/sshd_config
-|4,39,1,0,1678409942,"/etc/ssh/sshd_config"
--'  1  0  /etc/ssh/sshd_config
-|4,39,1,0,1678409942,"/etc/ssh/sshd_config"
--'  1  0  /etc/ssh/sshd_config
-|4,39,1,0,1678409942,"/etc/ssh/sshd_config"
--'  1  0  /etc/ssh/sshd_config
-|4,39,1,0,1678409942,"/etc/ssh/sshd_config"
--'  1  0  /etc/ssh/sshd_config
-|4,39,1,0,1678409942,"/etc/ssh/sshd_config"
--'  1  0  /etc/ssh/sshd_config
-|4,39,1,0,1678409942,"/etc/ssh/sshd_config"
--'  1  0  /etc/ssh/sshd_config
-|4,39,1,0,1678409942,"/etc/ssh/sshd_config"
 
 # History of marks within files (newest to oldest):
+
+> ~/Javaproject/t.txt
+	*	1685467138	0
+	"	1	2
+	^	1	3
+	.	1	2
+	+	1	2
 
 > ~/Javaproject/trybook.txt
 	*	1685464720	0

@@ -340,3 +340,28 @@ cul ifconfig.com
 cul ifconfiq.com
 curl --help
 ls
+systemctl jenkins status
+systemctl status jenkins
+ls
+git clone
+git clone https://github.com/nandutvt/Javaproject.git
+ls
+cd java
+cd Javaproject/
+ls
+vi trybook.txt
+git add .
+git status
+git commit -m "jk"
+git push
+cd..
+cd ..
+git add .
+git commit
+git commit -m "ddd"
+git push
+git remote add https://github.com/nandutvt/Javaproject.git
+git remote add nandutvt https://github.com/nandutvt/Javaproject.git
+git push
+git push https://github.com/nandutvt/Javaproject.git
+git init
