@@ -229,3 +229,114 @@ ls
 cat id_rsa.pub 
 ls
 exit
+ls
+rm -r mahalogin/
+rm -r jenkins.war 
+ls
+rm -r ]
+ls
+ls sanp
+git clone git@github.com:nandutvt/Javaproject.git
+tree Java
+tree Javalogin/
+git add .
+ls
+git commit -m
+git commit -m "add"
+git push
+git push git@github.com:nandutvt/Javaproject.git
+exit
+whereis jenkins
+systemctl status jenkins
+whereis jenkins
+cd /usr/bin/jenkins
+ls
+pwd
+cd /usr/lib/systemd/system/jenkins.service
+cd /usr/lib/systemd/
+ls
+cd user
+ls
+cd..
+cd ..
+ls
+cd system-environment-generators/
+ls
+cd ..
+ls
+cd
+whereis jenkins
+cd /usr/share/jenkins/
+ls
+cat migrate 
+cd
+cat /etc/default/jenkins 
+cat /etc/default/jenkins cd /var/lib/jenkins/
+pwd
+cd /var/lib/
+ls
+cd jenkins/
+ls
+vi config.xml 
+cd
+cd /etc/sysconfig/jenkins
+cd etc/default/jenkins
+cd /etc/default/jenkins
+cd /etc/default
+ls
+cd jenkins
+cd /jenkins
+ls
+cat jenkins 
+vi jenkins 
+systemctl jenkins restarted
+systemctl restarted jenkins
+systemctl restart jenkins
+vi jenkins 
+ls
+cd
+cd /var/lib/jenkins/
+ls
+vim config.xml 
+sudo /etc/init.d/jenkins start
+exit
+apt-get update
+sudo apt-get install -y autoconf gcc libc6 make wget unzip apache2 php libapache2-mod-php7.4 libgd-dev
+exit
+ls
+exit
+sudo apt update
+sudo apt install wget unzip curl openssl build-essential libgd-dev libssl-dev libapache2-mod-php php-gd php apache2 -y
+wget https://assets.nagios.com/downloads/nagioscore/releases/nagios-4.4.6.tar.gz
+ls
+sudo tar -zxvf nagios-4.4.6.tar.gz
+cd nagios-4.4.6
+sudo ./configure
+make all
+make install-groups-users
+usermod -a -G nagios www-data
+make install
+make install-init
+make install-commandmode
+make install-config
+make install-webconf
+a2enmod rewrite
+sytemctl restart apache2
+systemctl restart apache2
+a2enmod cgi
+systemctl restart apache2
+htpasswd -c /usr/local/nagios/etc/htpasswd.users admin
+cd ~/
+wget https://nagios-plugins.org/download/nagios-plugins-2.3.3.tar.gz
+tar -zxvf nagios-plugins-2.3.3.tar.gz
+nagios-plugins-2.3.3/
+./configure --with-nagios-user=nagios --with-nagios-group=nagios
+make
+make install
+systemctl start nagios
+systemctl enable nagios
+curl ifconfig.co
+cul ifconfig.com
+cul ifconfiq.com
+curl --help
+ls
